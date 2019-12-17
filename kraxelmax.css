@@ -1,0 +1,89 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+h1 {
+  background-image: url("bilder/kraxelmax.gif");
+  background-repeat: no-repeat;
+  width: 740px;
+  height: 143px;
+  text-indent: -9999px;
+  margin: 0px;
+  padding: 0px;
+}
+img {
+  border: 0px;
+}
+li.info {
+  margin-left: 10px;
+}
+li.foto {
+  margin-left: 190px;
+}
+li.kontakt {
+  margin-left: 240px;
+}
+#container {
+  margin: auto;
+  background-image: url("bilder/hintergrund.gif");
+  background-repeat: repeat-y;
+  width: 770px;
+  min-height: 20px;
+}
+#head {
+  margin-left: 15px;
+}
+#navigation {
+  margin-left: 15px;
+  width: 740px;
+  height: 28px;
+  background-color: #1b662b;
+  border-top: 1px solid #e7e7e7;
+  border-bottom: 1px solid #e7e7e7;
+  font-size: 18px;
+  color: #fff;
+}
+#navigation ul {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+  margin-top: 3px;
+}
+#navigation ul li {
+  background-image: url("bilder/li.gif");
+  background-repeat: no-repeat;
+  background-position: 0 50%;
+  display: inline;
+  padding-left: 20px;
+}
+#navigation a {
+  color: #fff;
+  text-decoration: none;
+}
+#body {
+  margin: 25px;
+}
+#body a {
+  color: #1b662b;
+  font-weight: bold;
+  text-decoration: none;
+}
+#foot {
+  margin-left: 15px;
+  width: 740px;
+  height: 21px;
+  padding-top: 7px;
+  background-color: #1b662b;
+  border-top: 1px solid #e7e7e7;
+  border-bottom: 1px solid #e7e7e7;
+  font-size: 11px;
+  color: #fff;
+  text-align: center;
+}
+#foot a {
+  color: #addb5a;
+  font-weight: bold;
+  text-decoration: none;
+}
